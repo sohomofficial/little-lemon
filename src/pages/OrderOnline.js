@@ -9,7 +9,7 @@ function OrderOnline() {
           <CogIcon className="h-10 w-10 animate-spin" />
         </p>
         <h1 className="mt-4 text-4xl font-bold tracking-tight sm:text-6xl">
-          Under Maintainance
+          Under Mainteinance
         </h1>
         <p className="mt-6 text-xl leading-7">
           The ordering online feature will be available soon.
